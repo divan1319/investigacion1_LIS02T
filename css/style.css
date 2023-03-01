@@ -1,0 +1,19 @@
+.tit{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cont{
+    padding: 2%;
+    width: 90%;
+    margin: 0 auto ;
+}
+td {
+    border: white 1px solid;
+    text-align: center;
+}
+th {
+    border: white 1px solid;
+    text-align: center;
+}
+.date{
+    float: right;
+}

@@ -1,0 +1,50 @@
+<productos>
+    <producto>
+        <codigo>SM901</codigo>
+        <imagen>https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-plus-1.jpg</imagen>
+        <nombre>Samsung s10</nombre>
+        <precio>250</precio>
+    </producto>
+    <producto>
+        <codigo>MT789</codigo>
+        <imagen>https://assets-prd.ignimgs.com/2022/06/17/27-inch-gaming-monitor-1655447399899.jpg</imagen>
+        <nombre>Monitor Odyssey G7</nombre>
+        <precio>399</precio>
+    </producto>
+    <producto>
+        <codigo>NK431</codigo>
+        <imagen>https://www.photolari.com/wp-content/uploads/2022/01/nikon-z-9-17.jpg</imagen>
+        <nombre>Cámara Nikon D7500</nombre>
+        <precio>499</precio>
+    </producto>
+    <producto>
+        <codigo>PP452</codigo>
+        <imagen>https://as.com/meristation/imagenes/2020/11/06/reportajes/1604654372_894608_1604656126_noticia_normal.jpg</imagen>
+        <nombre>PlayStation 5</nombre>
+        <precio>575</precio>
+    </producto>
+    <producto>
+        <codigo>RM784</codigo>
+        <imagen>https://lookuperu.com/wp-content/uploads/2020/11/router.png</imagen>
+        <nombre>Xiaomi Mi Router 4C</nombre>
+        <precio>25</precio>
+    </producto>
+    <producto>
+        <codigo>PM986</codigo>
+        <imagen>https://www.apple.com/v/iphone-14-pro/a/images/overview/hero/hero_endframe__cvklg0xk3w6e_large.jpg</imagen>
+        <nombre>Iphone 14 Pro Max</nombre>
+        <precio>1200</precio>
+    </producto>
+    <producto>
+        <codigo>PS234</codigo>
+        <imagen>https://fanaticosdelhardware.com/wp-content/uploads/2022/10/Intel-Core-13a-Generacion-Raptor-Lake-i9-13900K-portada.jpg</imagen>
+        <nombre>Procesador Intel i9 13900k</nombre>
+        <precio>535</precio>
+    </producto>
+    <producto>
+        <codigo>GM763</codigo>
+        <imagen>https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-red1-90615f9d44bda0cf6116270016365535-1024-1024.jpg</imagen>
+        <nombre>Silla Gamer Melon Butaca</nombre>
+        <precio>400</precio>
+    </producto>
+</productos>
