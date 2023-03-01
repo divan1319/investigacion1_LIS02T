@@ -171,8 +171,8 @@ $carpeta_destino = './cotizaciones/cotizacion_' . $correo . '.pdf';
       $mail->isSMTP(); //Send using SMTP
       $mail->Host = 'smtp.office365.com'; //Set the SMTP server to send through
       $mail->SMTPAuth = true; //Enable SMTP authentication
-      $mail->Username = 'pruebasejemplos@outlook.es'; //SMTP username
-      $mail->Password = 'Pruebas.ejemplo23'; //SMTP password
+      $mail->Username = ''; //SMTP username
+      $mail->Password = ''; //SMTP password
       $mail->SMTPSecure = 'tls'; //Enable implicit TLS encryption
       $mail->Port = 587; //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
